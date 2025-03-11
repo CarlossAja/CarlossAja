@@ -11,20 +11,32 @@
   </a>
 </p>
 
-
 <h2>💻 Tech Stack:</h2>
 <p>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </p>
 
 <h2>📊 GitHub Stats:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlossAja&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlossAja&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlossAja&theme=dark&hide_border=false" alt="Streak Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlossAja&theme=neon&hide_border=false" alt="Streak Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossAja&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossAja&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
+<h2>🏆 GitHub Trophies:</h2>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlossAja&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+<p>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=CarlossAja&icon=0&color=0" alt="Visit Counter">
+  </a>
+</p>
