@@ -1,13 +1,19 @@
 <h2>🌐 Socials:</h2>
-<p>
+<p style="display: flex; gap: 5px;">
   <a href="https://discordapp.com/users/773053579279204372">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" 
+         alt="Discord" 
+         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
   </a>
   <a href="https://www.instagram.com/carloss_sirait/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
+         alt="Instagram" 
+         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
   </a>
   <a href="https://www.linkedin.com/in/carlos-sirait-48129a336/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
+         alt="LinkedIn" 
+         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
   </a>
 </p>
 
@@ -27,8 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossAja&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CarlossAja&icon=0&color=0" alt="Visitor Count">
-  </a>
-</p>
