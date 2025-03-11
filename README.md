@@ -1,21 +1,16 @@
 <h2>🌐 Socials:</h2>
-<p style="display: flex; gap: 5px;">
-  <a href="https://discordapp.com/users/773053579279204372">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" 
-         alt="Discord" 
-         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
+<p style="display: flex; gap: 0px; align-items: center; justify-content: start;">
+  <a href="https://discordapp.com/users/773053579279204372" style="display: flex;">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.instagram.com/carloss_sirait/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
-         alt="Instagram" 
-         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
+  <a href="https://www.instagram.com/carloss_sirait/" style="display: flex;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/carlos-sirait-48129a336/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         style="display: inline-block; vertical-align: middle; margin: 0; padding: 0; border: none;">
+  <a href="https://www.linkedin.com/in/carlos-sirait-48129a336/" style="display: flex;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 <h2>💻 Tech Stack:</h2>
 <p>
