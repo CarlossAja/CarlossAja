@@ -1,13 +1,16 @@
 <h2>🌐 Socials:</h2>
-<p style="display: flex; gap: 0px; align-items: center; justify-content: start;">
-  <a href="https://discordapp.com/users/773053579279204372" style="display: flex;">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<p style="display: flex; gap: 5px; align-items: center; justify-content: start;">
+  <a href="https://discordapp.com/users/773053579279204372" target="_blank" style="display: flex;">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.instagram.com/carloss_sirait/" style="display: flex;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/carloss_sirait/" target="_blank" style="display: flex;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/carlos-sirait-48129a336/" style="display: flex;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/carlos-sirait-48129a336/" target="_blank" style="display: flex;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Carlosdhs12345@gmail.com" target="_blank" style="display: flex;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -35,8 +38,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CarlossAja&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CarlossAja&icon=0&color=0" alt="Visit Counter">
-  </a>
-</p>
